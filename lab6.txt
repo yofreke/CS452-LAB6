@@ -1,0 +1,3 @@
+Create a Polyhedron. example cylander,cube,sphere etc.
+Create a light.
+Create a shadow of the object.
